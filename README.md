@@ -3,7 +3,7 @@
 Just another repository.
 
 
-My name is Karolina.
+My full name is Karolina Szweda.
 
 
 My univeristy is Silesian University of technology.
